@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 904892824
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: capsule_geometry_model
+      Dependencies: {}
+    Info_1:
+      Name: cube_geometry_model
+      Dependencies: {}
+    Info_2:
+      Name: sphere_geometry_model
+      Dependencies: {}

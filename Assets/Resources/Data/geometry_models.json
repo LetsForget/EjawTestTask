@@ -1,0 +1,14 @@
+{
+  "Cube": {
+    "LocalPath": "Bundles/cube_geometry_model",
+    "PrefabName": "Cube"
+  },
+  "Sphere": {
+    "LocalPath": "Bundles/sphere_geometry_model",
+    "PrefabName": "Sphere"
+  },
+  "Capsule": {
+    "LocalPath": "Bundles/capsule_geometry_model",
+    "PrefabName": "Capsule"
+  }
+}
